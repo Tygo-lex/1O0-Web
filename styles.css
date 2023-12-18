@@ -30,7 +30,7 @@ body {
     color: azure;
     outline-color: rgba(112, 67, 67, 0);
     background: linear-gradient(90deg, #246b9a, #e74c3c); /* Gradient background on hover */
-    transform: scale(1.25);
+    transform: scale(1.15);
     transition: all 0.3s ease-in-out;
     /*box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
     /*background-color: #FACD3D; /* Voeg hier de gewenste achtergrondkleur toe */
